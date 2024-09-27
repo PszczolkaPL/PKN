@@ -4,7 +4,7 @@ let Tool = function (toolType) {
         alert(this.useSound);
     }
     this.toString = function () {
-        return "Komoputer zagral " + this.toolType
+        return "Komputer zagral " + this.toolType
     }
 
 }
